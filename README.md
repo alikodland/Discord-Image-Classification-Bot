@@ -7,3 +7,5 @@ Untuk menggunakan bot ini, silakan Anda menginstal
 
 Kemudian kamu download file main.py dan model.py, lalu kamu buka di VS Code.
 Setelah itu run main.py
+
+![Contoh penggunaan](https://i.ibb.co.com/gMW7fTcv/Screenshot-2025-04-16-073923.png)
